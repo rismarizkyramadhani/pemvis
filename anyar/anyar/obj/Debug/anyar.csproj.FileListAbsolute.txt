@@ -1,0 +1,5 @@
+C:\Users\Aomine\Documents\Visual Studio 2008\Projects\anyar\anyar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aomine\Documents\Visual Studio 2008\Projects\anyar\anyar\obj\Debug\ISOISO_AAMIIN.Form2.resources
+C:\Users\Aomine\Documents\Visual Studio 2008\Projects\anyar\anyar\obj\Debug\ISOISO_AAMIIN.Form1.resources
+C:\Users\Aomine\Documents\Visual Studio 2008\Projects\anyar\anyar\obj\Debug\anyar.Properties.Resources.resources
+C:\Users\Aomine\Documents\Visual Studio 2008\Projects\anyar\anyar\obj\Debug\anyar.csproj.GenerateResource.Cache
