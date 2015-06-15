@@ -6,3 +6,12 @@ C:\Users\Fikri\Documents\Visual Studio 2008\Projects\ISOISO-AAMIIN\ISOISO-AAMIIN
 C:\Users\Fikri\Documents\Visual Studio 2008\Projects\ISOISO-AAMIIN\ISOISO-AAMIIN\bin\Debug\ISOISO-AAMIIN.pdb
 C:\Users\Fikri\Documents\Visual Studio 2008\Projects\ISOISO-AAMIIN\ISOISO-AAMIIN\obj\Debug\ISOISO-AAMIIN.exe
 C:\Users\Fikri\Documents\Visual Studio 2008\Projects\ISOISO-AAMIIN\ISOISO-AAMIIN\obj\Debug\ISOISO-AAMIIN.pdb
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\obj\Debug\ISOISO_AAMIIN.Form1.resources
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\obj\Debug\ISOISO_AAMIIN.Properties.Resources.resources
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\obj\Debug\ISOISO-AAMIIN.csproj.GenerateResource.Cache
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\bin\Debug\ISOISO-AAMIIN.exe
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\bin\Debug\ISOISO-AAMIIN.pdb
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\obj\Debug\ISOISO-AAMIIN.exe
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\obj\Debug\ISOISO-AAMIIN.pdb
+C:\Users\Risma\Documents\pemvis\apotek\ISOISO-AAMIIN\obj\Debug\ISOISO_AAMIIN.Form2.resources

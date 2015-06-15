@@ -190,5 +190,12 @@ namespace ISOISO_AAMIIN
                 MessageBox.Show(ex.ToString());
             }
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form myForm2 = new Form2();
+            myForm2.Show();
+            this.Hide();
+        }
     }
 }
