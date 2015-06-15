@@ -8,16 +8,15 @@ using System.Text;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
-namespace anyar
+namespace kedua
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
             tb_obat = "server=localhost; database=db_apotek; username=root; password=;Convert Zero DateTime=True";
             koneksi = new MySqlConnection(tb_obat);
-
         }
         private MySqlConnection koneksi;
         private MySqlDataAdapter adapter;
@@ -25,8 +24,7 @@ namespace anyar
         private DataSet ds = new DataSet();
         private string tb_obat, query;
 
-
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
             try
             {
@@ -63,7 +61,6 @@ namespace anyar
             {
                 MessageBox.Show(ex.ToString());
             }
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -96,7 +93,7 @@ namespace anyar
                     else
                     {
                         MessageBox.Show("Data Tidak Ada !!");
-                        Form1_Load(null, null);
+                        Form2_Load(null, null);
                     }
 
                 }
@@ -128,7 +125,7 @@ namespace anyar
                     if (res == 1)
                     {
                         MessageBox.Show("Insert Data Suksess ...");
-                        Form1_Load(null, null);
+                        Form2_Load(null, null);
                     }
                     else
                     {
@@ -179,11 +176,14 @@ namespace anyar
             }
         }
 
+
+
+
         private void button4_Click(object sender, EventArgs e)
         {
             try
             {
-                Form1_Load(null, null);
+                Form2_Load(null, null);
             }
             catch (Exception ex)
             {

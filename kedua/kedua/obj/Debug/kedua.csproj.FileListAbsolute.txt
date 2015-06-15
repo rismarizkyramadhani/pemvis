@@ -1,0 +1,9 @@
+C:\Users\Risma\Documents\pemvis\kedua\kedua\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Risma\Documents\pemvis\kedua\kedua\obj\Debug\kedua.Form1.resources
+C:\Users\Risma\Documents\pemvis\kedua\kedua\obj\Debug\kedua.Properties.Resources.resources
+C:\Users\Risma\Documents\pemvis\kedua\kedua\obj\Debug\kedua.csproj.GenerateResource.Cache
+C:\Users\Risma\Documents\pemvis\kedua\kedua\obj\Debug\kedua.Form2.resources
+C:\Users\Risma\Documents\pemvis\kedua\kedua\bin\Debug\kedua.exe
+C:\Users\Risma\Documents\pemvis\kedua\kedua\bin\Debug\kedua.pdb
+C:\Users\Risma\Documents\pemvis\kedua\kedua\obj\Debug\kedua.exe
+C:\Users\Risma\Documents\pemvis\kedua\kedua\obj\Debug\kedua.pdb
