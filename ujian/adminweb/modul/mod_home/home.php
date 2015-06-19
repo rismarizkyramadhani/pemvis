@@ -6,7 +6,7 @@ switch($_GET['act']){
     $sql  = mysql_query("SELECT * FROM modul WHERE id_modul='1'");
     $r    = mysql_fetch_array($sql);
 
-    echo "<h2>Edit Home Website</h2>
+    echo "<h2>Edit Homes Website</h2>
           <form method=POST enctype='multipart/form-data' action=$aksi?module=home&act=update>
           <input type=hidden name=id value=$r[id_modul]>
           <table>
